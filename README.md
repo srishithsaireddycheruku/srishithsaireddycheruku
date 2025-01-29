@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @srishithsaireddycheruku
-- 👀 I’m interested in machine learning,data science and full stack 
+- 👀 I’m interested in machine learning,data science and SDE 
 - 🌱 I’m currently pursuing my bachelor of tech
 - 📫 How to reach me cherukusrishithsaireddy@gmail.com
-- 😄 Pronouns: 'chikki'
 
 <!---
 srishithsaireddycheruku/srishithsaireddycheruku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
