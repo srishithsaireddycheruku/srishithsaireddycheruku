@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srishithsaireddycheruku
-- 👀 I’m interested in machine learning,data science and SDE 
+- 👀 I’m interested in DataStructures,Algorithms and SDE 
 - 🌱 I’m currently pursuing my bachelor of tech
 - 📫 How to reach me cherukusrishithsaireddy@gmail.com
 
